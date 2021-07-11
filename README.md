@@ -11,3 +11,10 @@ I'm currently pursuing Bachelor's in Computer Engineering and Honours in Data Sc
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ![TECHNOLOGY (1) (1)](https://user-images.githubusercontent.com/68264150/125186926-9cbcac80-e24a-11eb-8840-87533090fab3.gif)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- <h1 align = "center">Find me elsewhere! </h1>
+
+<a href="https://www.instagram.com/rajita._roy">
+<img border="0" alt="Instagram" src="https://png.pngtree.com/element_our/png/20181011/instagram-social-media-icon-design-template-vector-png_127006.jpg" width="100" height="100"> -->
