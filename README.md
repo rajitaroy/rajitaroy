@@ -10,3 +10,4 @@ I'm currently pursuing Bachelor's in Computer Engineering and Honours in Data Sc
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
+![TECHNOLOGY (1) (1)](https://user-images.githubusercontent.com/68264150/125186926-9cbcac80-e24a-11eb-8840-87533090fab3.gif)
