@@ -15,7 +15,7 @@ ________________________________________________________________________________
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align = "center">Find me elsewhere! </h1>
-<p align = center>
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [![Rajita](https://img.shields.io/badge/portfolio-rajitaroy-lightgrey)](portfolio-rajita.herokuapp.com/) &nbsp;
 [![Github](https://img.shields.io/badge/-rajitaroy-black?style=flat-square&logo=github)](https://github.com/rajitaroy) &nbsp;
