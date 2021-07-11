@@ -6,7 +6,13 @@ I'm currently pursuing Bachelor's in Computer Engineering and Honours in Data Sc
   <li> Currently learning Tensorflow, Django and ReactJS </li>
   <li> Next project idea: Mask detection </li>
   <li> Future learning includes working with ChartJS and Dash
-</ul>
+</ul>  
+
+# Hit this on your command line or console!  
+
+``` console
+npx rajitaroy
+```
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
