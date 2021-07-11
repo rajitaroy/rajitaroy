@@ -19,7 +19,7 @@ ________________________________________________________________________________
 <!-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -->
 <div align = "center">
 
-[![Rajita](https://img.shields.io/badge/Portfolio-darkpink?style=flat-square)](https://portfolio-rajita.herokuapp.com/) 
+[![Rajita](https://img.shields.io/badge/Portfolio-darkpink?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-rajita.herokuapp.com/) 
 [![Github](https://img.shields.io/badge/-@rajitaroy-black?style=flat-square&logo=github)](https://github.com/rajitaroy) 
 [![Instagram](https://img.shields.io/badge/-@rajita._roy-lightgreen?style=flat-square&logo=instagram&logoColor=darkgreen)](https://www.instagram.com/rajita._roy) 
 [![Twitter](https://img.shields.io/badge/@RajitaRoy1-darkgreen?style=flat-square&logo=twitter&logoColor=blue)](https://www.twitter.com/RajitaRoy1) 
