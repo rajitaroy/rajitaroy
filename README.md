@@ -20,6 +20,6 @@ ________________________________________________________________________________
 [![Rajita](https://img.shields.io/badge/portfolio-rajitaroy-lightgrey)](portfolio-rajita.herokuapp.com/) &nbsp;
 [![Github](https://img.shields.io/badge/-rajitaroy-black?style=flat-square&logo=github)](https://github.com/rajitaroy) &nbsp;
 [![Instagram](https://img.shields.io/badge/-rajita._roy-lightgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rajita._roy)](https://www.instagram.com/rajita._roy) &nbsp;
-[![Linkedin](https://img.shields.io/badge/-rajita-+roy-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/rajita-roy/)](https://www.linkedin.com/in/nixon-kurian-5438b320b/) &nbsp;
+<!-- [![Linkedin](https://img.shields.io/badge/-rajita-+roy-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/rajita-roy/)](https://www.linkedin.com/in/nixon-kurian-5438b320b/) &nbsp; -->
 [![Mail](https://img.shields.io/badge/-royrajita6@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=www.gmail.com)](mailto:royrajita6@gmail.com) &nbsp;
 
