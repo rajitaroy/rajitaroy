@@ -1,4 +1,4 @@
-<h1 align="center"><>Helloworld  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><>Helloworld  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>  
 
 I'm currently working as an <b>Associate Software Developer</b> in SAS, India.  
 My work involves full-stack development in the following stack-    
@@ -52,10 +52,13 @@ npx rajitaroy
 </div>  
 
 ---  
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; My Stats :  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajitaroy&label=Profile%20views&color=red&style=flat" alt="mszeles" /> </p>  
 
 ![Rajita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajitaroy&hide=contribs,prs&theme=highcontrast)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitaroy&layout=compact&theme=vision-friendly-dark)](https://github.com/rajitaroy/github-readme-stats)  
+
 
 
 
