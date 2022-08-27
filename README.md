@@ -15,7 +15,7 @@ My work involves full-stack development in the following stack-
 npx rajitaroy
 ```
 
----
+
 
 # 🛠 &nbsp;Languages and Tools :
 
@@ -38,7 +38,7 @@ npx rajitaroy
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
----  
+<br><br>
 <h1 align = "center">Find me elsewhere! </h1>
 
 <div align = "center">
@@ -51,7 +51,7 @@ npx rajitaroy
   
 </div>  
 
----  
+ 
 ### 🔥 &nbsp; My Stats :  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajitaroy&label=Profile%20views&color=red&style=flat" alt="mszeles" /> </p>  
