@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/68264150/125184770-2154fe00-e23e-11eb-9acf-493f945df293.gif)  
+<h1 align="center"><>Helloworld  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 I'm currently working as an <b>Associate Software Developer</b> in SAS, India.  
 My work involves full-stack development in the following stack-    
