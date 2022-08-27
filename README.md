@@ -43,7 +43,7 @@ npx rajitaroy
 
 <div align = "center">
 
-[![Rajita](https://img.shields.io/badge/-Portfolio-darkpink?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-rajita.herokuapp.com/) 
+[![Rajita](https://img.shields.io/badge/-Portfolio-darkpink?style=flat-square&logo=googlechrome&logoColor=white)](https://rajitaroy.netlify.app/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-lightgreen?style=flat-square&logo=instagram&logoColor=darkgreen)](https://www.instagram.com/rajita._roy) 
 [![Twitter](https://img.shields.io/badge/Twitter-darkgreen?style=flat-square&logo=twitter&logoColor=blue)](https://www.twitter.com/RajitaRoy1) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-lightblue?style=flat-square&logo=linkedin&logoColor=darkblue)](https://www.linkedin.com/in/rajita-roy/) 
