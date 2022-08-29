@@ -6,7 +6,7 @@ My work involves full-stack development in the following stack-
 <ul>
   <li> Golang </li>
   <li> React </li>
-  <li> MongoDB </li>
+  <li> PostgreSQL </li>
 </ul>  
 
 ### Hit this on your command line or console!  
